@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+
 import requests
 import csv
 
